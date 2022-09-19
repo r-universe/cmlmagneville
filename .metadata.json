@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mFD",
+    "oncran": true
+  }
+]
